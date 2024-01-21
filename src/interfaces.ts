@@ -61,3 +61,10 @@ export interface IEmployee {
 	lastName: string;
 	title: string;
 }
+
+export interface INorthwindEmployee {
+	EmployeeID: number,
+	FirstName: string,
+	LastName: string,
+	Title: string;
+}
