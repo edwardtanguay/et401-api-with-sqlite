@@ -219,3 +219,4 @@
 {"contentLength":"736","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"1.989","status":"200","timestamp":"2024-01-21T23:12:13.540Z","url":"/employees"}
 {"contentLength":"737","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"2.106","status":"200","timestamp":"2024-01-21T23:12:30.545Z","url":"/employees"}
 {"contentLength":"736","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"2.044","status":"200","timestamp":"2024-01-21T23:12:40.095Z","url":"/employees"}
+{"contentLength":"undefined","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"2.073","status":"304","timestamp":"2024-01-21T23:21:13.086Z","url":"/employees"}
