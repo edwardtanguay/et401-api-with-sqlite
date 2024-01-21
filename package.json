@@ -13,7 +13,7 @@
 		"watch": [
 			"src"
 		],
-		"ext": "ts, json",
+		"ext": "ts, json, sqlite",
 		"exec": "tsx src/index.ts"
 	},
 	"dependencies": {
