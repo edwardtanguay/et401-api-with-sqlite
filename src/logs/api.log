@@ -191,3 +191,4 @@
 {"contentLength":"665","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"0.528","status":"200","timestamp":"2024-01-21T22:01:38.983Z","url":"/flashcards"}
 {"contentLength":"150","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::1","responseTime":"0.321","status":"404","timestamp":"2024-01-21T22:02:19.883Z","url":"/favicon.ico"}
 {"contentLength":"43","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::ffff:127.0.0.1","responseTime":"2.063","status":"200","timestamp":"2024-01-21T22:10:22.905Z","url":"/employees"}
+{"contentLength":"150","level":"http","message":"incoming-request","method":"GET","remoteAddr":"::1","responseTime":"2.547","status":"404","timestamp":"2024-01-21T22:14:33.168Z","url":"/favicon.ico"}
